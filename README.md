@@ -6,7 +6,9 @@
 
 
 ### Запуск приложения с GUI
-Запустить выполнение main.py
+1) Установить все зависимости из requirements.txt
+2) Скачать [обученную модель](https://drive.google.com/drive/folders/1AfE7QOMO0LtdiDtxtFXy0MFiye77cQ82?usp=sharing)
+3) Запустить выполнение main.py
 
 ### Ручной запуск классификации (garbage_classifier)
 - Изменить значение ```store_path``` в ```garbage_classifier.py ```
