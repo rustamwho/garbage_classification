@@ -1,0 +1,13 @@
+class_index,class,height,width,scale by
+0,battery,224,224,1
+1,biological,224,224,1
+2,brown-glass,224,224,1
+3,cardboard,224,224,1
+4,clothes,224,224,1
+5,green-glass,224,224,1
+6,metal,224,224,1
+7,paper,224,224,1
+8,plastic,224,224,1
+9,shoes,224,224,1
+10,trash,224,224,1
+11,white-glass,224,224,1

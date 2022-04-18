@@ -1,0 +1,13 @@
+# GUI
+PyQT5
+
+# CNN
+tensorflow
+pandas
+opencv-python
+matplotlib
+pillow
+# Метрики и функции работы с выборкой
+scikit-learn
+# Визуализация модели
+seaborn
